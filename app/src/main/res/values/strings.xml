@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Android Life Cycle</string>
+    <string name="hint_komentar">Masukkan Komentar Anda</string>
+    <string name="button_submit_komentar">Kirim Komentar</string>
 </resources>
